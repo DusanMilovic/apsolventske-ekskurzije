@@ -25,3 +25,5 @@ Napisati program kojim se od svih ponuđenih destinacija izdvaja ona za koju se 
 * Java
 * JavaFx
 * DB2
+
+### 🌈 Demo 🌈
