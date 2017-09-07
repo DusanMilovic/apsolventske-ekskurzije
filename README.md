@@ -27,21 +27,21 @@ Napisati program kojim se od svih ponuđenih destinacija izdvaja ona za koju se 
 * DB2
 
 ### 🌈 Demo 🌈
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/1.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/1.png)
 ekran 1
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/2.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/2.png)
 ekran 2
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/3.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/3.png)
 ekran 3
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/4.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/4.png)
 ekran 4
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/5.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/5.png)
 ekran 5
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/screenshoots/6.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/6.png)
 ekran 6
 
