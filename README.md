@@ -25,6 +25,7 @@ Napisati program kojim se od svih ponuđenih destinacija izdvaja ona za koju se 
 * Java
 * JavaFx
 * DB2
+* CSS
 
 ### 🌈 Demo 🌈
 ![alt tag](https://raw.githubusercontent.com/fr1sk/apsolventske-ekskurzije/master/screenshoots/1.png)
